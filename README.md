@@ -1,5 +1,29 @@
-# 💫 About Me:
-👋 Hi there! I'm Vikramjeet Singh<br>🎓 First-year Computer Science student in the UK<br>💻 Passionate about software development, UI/UX design, and emerging technologies<br>🚀 Currently working on a Fire Detector Car innovation project with my team<br>💼 Freelance services on Fiverr: website design, video editing, graphic design & more<br>🏆 Achievements:<br><br>🥈 Runner-up in UX-a-thon by AWS & West Midlands Police<br>🎖 Earned the IBM Design Thinking Badge<br>🎓 Selected for a Military Mechatronic Apprenticeship<br>🔧 Proficient in:<br>
+# 💫 About Me  
+
+Hi there! 👋 I'm **Vikramjeet Singh**, a first-year **Computer Science student** based in the UK.  
+
+## 🚀 What I Do  
+- 🔥 Currently working on an exciting **Fire Detector Car innovation project** with my team.  
+- 💼 Freelancing on **Fiverr**, offering services such as **website design**, **video editing**, and **graphic design**.  
+- 💻 Passionate about **software development**, **UI/UX design**, and exploring **emerging technologies**.  
+
+## 🏆 Achievements  
+- 🥈 **Runner-up** in the **UX-a-thon** organized by **AWS** & **West Midlands Police**  
+- 🎖 Earned the prestigious **IBM Design Thinking Badge**  
+- 🎓 Selected for a **Military Mechatronic Apprenticeship**  
+
+## 🔧 Proficient In  
+### Programming Languages:  
+- **HTML**, **CSS**, **Java**, **Swift**, **SwiftUI**  
+
+### Design Tools:  
+- **Figma**, **Photoshop**, **CorelDRAW**, **Illustrator**  
+
+### Video Editing:  
+- **Adobe Premiere Pro**, **Final Cut Pro**  
+
+Always eager to **learn**, **innovate**, and contribute to impactful projects! 😊  
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikramjeet_singh0096) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikramjeet-singh-539743326/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikramjeetsinghs341@gmail.com) 
