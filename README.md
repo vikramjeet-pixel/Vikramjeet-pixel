@@ -1,6 +1,7 @@
 # 💫 About Me  
 
-Hi! 👋 I'm **Vikramjeet Singh**, a first-year **Computer Science student** in the UK.  
+<h1>Hello World!, I'm Vikram, a enthusiast Web Developer 👋🏼:</h1>
+📚A first-year **Computer Science student** in the UK.  
 🚀 Building a **Fire Detector Car** project | 💼 Freelancing on **Fiverr** (design & dev)  
 🏆 **Achievements**: 🥈 **UX-a-thon Runner-up** | 🎖 **IBM Design Thinking Badge** | 🎓 **Military Mechatronic Apprentice**  
 🔧 **Skills**: **HTML**, **CSS**, **Java**, **Swift**, **Figma**, **Photoshop**, **Premiere Pro**  
