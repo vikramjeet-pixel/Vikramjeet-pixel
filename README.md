@@ -8,10 +8,10 @@
 <br>- 🥈 Runner-up: UX-a-thon by AWS & West Midlands Police  <br>
 <br> - 🎖 IBM Design Thinking Badge   <br>
 <br> - 🎓 Selected for Military Mechatronic Apprenticeship  <br>
-<br> ## 🔧 Skills  <br>
-<br> Programming: HTML, CSS, Java, Swift <br> 
-<br> Design: Figma, Photoshop, CorelDRAW <br> 
-<br> Editing: Adobe Premiere Pro, Final Cut Pro <br> 
+## 🔧 Skills
+Programming: HTML, CSS, Java, Swift 
+Design: Figma, Photoshop, CorelDRAW <br> 
+Editing: Adobe Premiere Pro, Final Cut Pro 
 
 
 
