@@ -2,19 +2,18 @@
 
 <h1>Hello World!, I'm Vikram, a enthusiast Web Developer 👋🏼:</h1>
 📚 First-Year Computer Science Student | Based in the UK  
-<br>🚀 Current Project: Fire Detector Car  <br>
-<br>💼 Freelancer on Fiverr: Specializing in Design & Development <br>  
-<br>## 🏆 Achievements  <br>
-<br>- 🥈 Runner-up: UX-a-thon by AWS & West Midlands Police  <br>
-<br> - 🎖 IBM Design Thinking Badge   <br>
-<br> - 🎓 Selected for Military Mechatronic Apprenticeship  <br>
-## 🔧 Skills
-Programming: HTML, CSS, Java, Swift 
-Design: Figma, Photoshop, CorelDRAW <br> 
-Editing: Adobe Premiere Pro, Final Cut Pro 
+🚀 Current Project: Fire Detector Car  
+💼 Freelancer on Fiverr: Specializing in Design & Development  
 
+## 🏆 Achievements  
+- 🥈 Runner-up: UX-a-thon by AWS & West Midlands Police  
+- 🎖 IBM Design Thinking Badge  
+- 🎓 Selected for Military Mechatronic Apprenticeship  
 
-
+## 🔧 Skills  
+Programming: HTML, CSS, Java, Swift  
+Design: Figma, Photoshop, CorelDRAW  
+Editing: Adobe Premiere Pro, Final Cut Pro  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikramjeet_singh0096) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikramjeet-singh-539743326/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikramjeetsinghs341@gmail.com) 
