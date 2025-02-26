@@ -1,10 +1,18 @@
 # 💫 About Me  
 
 <h1>Hello World!, I'm Vikram, a enthusiast Web Developer 👋🏼:</h1>
-📚 A first-year **Computer Science student** in the UK  
-🚀 Building a **Fire Detector Car** project | 💼 Freelancing on **Fiverr** (design & dev)  
-🏆 **Achievements**: 🥈 **UX-a-thon Runner-up** | 🎖 **IBM Design Thinking Badge** | 🎓 **Military Mechatronic Apprentice**  
-🔧 **Skills**: **HTML**, **CSS**, **Java**, **Swift**, **Figma**, **Photoshop**, **Premiere Pro**  
+📚 First-Year Computer Science Student | Based in the UK  
+🚀 Current Project: Fire Detector Car  
+💼 Freelancer on Fiverr: Specializing in Design & Development  
+## 🏆 Achievements  
+- 🥈 Runner-up: UX-a-thon by AWS & West Midlands Police  
+- 🎖 IBM Design Thinking Badge  
+- 🎓 Selected for Military Mechatronic Apprenticeship  
+## 🔧 Skills  
+Programming: HTML, CSS, Java, Swift  
+Design: Figma, Photoshop, CorelDRAW  
+Editing: Adobe Premiere Pro, Final Cut Pro  
+
 
 
 
