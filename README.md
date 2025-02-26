@@ -1,28 +1,10 @@
 # 💫 About Me  
 
-Hi there! 👋 I'm **Vikramjeet Singh**, a first-year **Computer Science student** based in the UK.  
-
-## 🚀 What I Do  
-- 🔥 Currently working on an exciting **Fire Detector Car innovation project** with my team.  
-- 💼 Freelancing on **Fiverr**, offering services such as **website design**, **video editing**, and **graphic design**.  
-- 💻 Passionate about **software development**, **UI/UX design**, and exploring **emerging technologies**.  
-
-## 🏆 Achievements  
-- 🥈 **Runner-up** in the **UX-a-thon** organized by **AWS** & **West Midlands Police**  
-- 🎖 Earned the prestigious **IBM Design Thinking Badge**  
-- 🎓 Selected for a **Military Mechatronic Apprenticeship**  
-
-## 🔧 Proficient In  
-### Programming Languages:  
-- **HTML**, **CSS**, **Java**, **Swift**, **SwiftUI**  
-
-### Design Tools:  
-- **Figma**, **Photoshop**, **CorelDRAW**, **Illustrator**  
-
-### Video Editing:  
-- **Adobe Premiere Pro**, **Final Cut Pro**  
-
-Always eager to **learn**, **innovate**, and contribute to impactful projects! 😊  
+Hi! 👋 I'm **Vikramjeet Singh**, a first-year **Computer Science student** in the UK.  
+🚀 Building a **Fire Detector Car** project | 💼 Freelancing on **Fiverr** (design & dev)  
+🏆 **Achievements**: 🥈 **UX-a-thon Runner-up** | 🎖 **IBM Design Thinking Badge** | 🎓 **Military Mechatronic Apprentice**  
+🔧 **Skills**: **HTML**, **CSS**, **Java**, **Swift**, **Figma**, **Photoshop**, **Premiere Pro**  
+ 
 
 
 ## 🌐 Socials:
