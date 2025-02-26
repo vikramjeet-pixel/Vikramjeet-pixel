@@ -2,7 +2,7 @@
 
 <h1>Hello World!, I'm Vikram, a enthusiast Web Developer 👋🏼:</h1>
 📚 First-Year Computer Science Student | Based in the UK  
-🚀 Current Project: Fire Detector Car  
+<br>🚀 Current Project: Fire Detector Car  <br>
 💼 Freelancer on Fiverr: Specializing in Design & Development  
 ## 🏆 Achievements  
 - 🥈 Runner-up: UX-a-thon by AWS & West Midlands Police  
